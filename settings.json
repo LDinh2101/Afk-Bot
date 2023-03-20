@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "dldinhthegioiphang.aternos.me",
+    "port": 39077,
+    "version": "1.19.2"
   },
 
   "position": {
